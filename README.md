@@ -19,7 +19,7 @@ SPACE ==> for the quike sort
 see the ./sort/constants.py for more change to the board look
 as for example chage the ```BAR_WIDTH``` to draw more bars on the board
 
-### knowledge
+### knowledgement
 
 wait for more search algos on the future
 
