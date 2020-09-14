@@ -7,11 +7,13 @@ python main.py
 
 #### Algos run options
 ```
-b ==> for the bubble sort
-q ==> for the quike sort
-m ==> for the merge sort
+b : for the bubble sort
+q : for the quike sort
+m : for the merge sort
 
-SPACE ==> for the quike sort
+SPACE : for the quike sort
+
+r : to regenerate the random positions of the bars
 ```
 
 #### Board change
