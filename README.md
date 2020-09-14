@@ -1,4 +1,4 @@
-### Sorting Algos in Python with Pygame Visulizations
+# Sorting Algos in Python with Pygame Visulizations
 
 #### Run 
 ```
@@ -6,12 +6,13 @@ python main.py
 ```
 
 #### Algos run options
-
+```
 b ==> for the bubble sort
 q ==> for the quike sort
 m ==> for the merge sort
 
 SPACE ==> for the quike sort
+```
 
 #### Board change
 
